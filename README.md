@@ -34,5 +34,5 @@ p
 ```
 复制并回车后应当处于"打印所有信息"页面，之后便可根据指示自由选择功能。
 
-
+点击[此处](https://github.com/1wyl/C-WORK/blob/main/final.c)查看源码。
 
